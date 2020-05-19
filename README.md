@@ -1,5 +1,5 @@
 # NewsNow
-News App built in Kotlin using MVVM, Room , Retrofit , Coroutines,Diff Utils
+📺 NewsNow is written in Kotlin on MVVM pattern📱 using Room , Retrofit , Coroutines
 ## Screenshots
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
